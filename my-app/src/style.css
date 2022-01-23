@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+
+body {
+    margin: 0;
+}
+
+/* Nav bar */
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    padding: 2vh 5vh;
+    background-color: #21222A;
+}
+.navbar-first-section{
+    display: flex;
+    color: #61DAFB;
+}
+
+.navbar img {
+    width:8vh;
+    margin:auto;
+    padding-right: 1vh;
+}
+
+.navbar h3 {
+    color: white;
+}
